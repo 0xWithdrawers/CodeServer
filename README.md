@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/963ad0ba-666c-4cf9-8937-fae1d651fd47)
+![Banner](https://github.com/user-attachments/assets/a610b601-4455-456c-8d34-664331c147cf)
 
 This is a collaborative Docker environment designed for smart contract auditing, providing all the necessary tools for Solana and Ethereum development and security analysis.
 
