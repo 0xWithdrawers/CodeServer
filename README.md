@@ -23,7 +23,7 @@ This is a collaborative Docker environment designed for smart contract auditing,
 
 | Category | Tools |
 |----------|-------|
-| IDE | Code Server 4.98.2 with Audit Bookmarks extension |
+| IDE | Code Server 4.100.3 with Audit Bookmarks extension |
 | Solana | Solana CLI, Anchor CLI (v0.31.0) |
 | Ethereum | Foundry (forge, cast, anvil) |
 | Security | Slither static analyzer |
