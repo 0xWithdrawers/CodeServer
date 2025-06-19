@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 codercom/code-server:4.98.2
+FROM --platform=linux/amd64 codercom/code-server:4.100.3
 
 ARG HOME="/home/coder"
 
